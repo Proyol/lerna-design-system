@@ -1,0 +1,26 @@
+{
+  "name": "danielg.favero-button",
+  "version": "1.0.0",
+  "description": "botão",
+  "keywords": [
+    "button"
+  ],
+  "author": "Daniel Gustavo Favero <daniel.favero@contasimples.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/Button.js",
+  "module": "src/Button.js",
+  "dependencies": {
+    "react": "latest",
+    "react-dom": "latest",
+    "styled-components": "latest"
+  },
+  "peerDependencies": {
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0",
+    "styled-components": "^5.0.0"
+  },
+  "scripts": {
+    "test": "echo Testando botão"
+  }
+}

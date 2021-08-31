@@ -1,0 +1,26 @@
+{
+  "name": "danielg.favero-input",
+  "version": "1.0.0",
+  "description": "input",
+  "keywords": [
+    "input"
+  ],
+  "author": "Daniel Gustavo Favero <daniel.favero@contasimples.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/Input.js",
+  "module": "src/Input.js",
+  "dependencies": {
+    "react": "latest",
+    "react-dom": "latest",
+    "styled-components": "latest"
+  },
+  "peerDependencies": {
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0",
+    "styled-components": "^5.0.0"
+  },
+  "scripts": {
+    "test": "echo Testando input"
+  }
+}
