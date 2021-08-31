@@ -1,0 +1,25 @@
+{
+  "name": "danielg.favero-design-tokens",
+  "version": "1.0.0",
+  "keywords": [
+    "design",
+    "tokens",
+    "design-tokens"
+  ],
+  "description": "Variables and constants",
+  "author": "Daniel Gustavo Favero <daniel.favero@contasimples.com>",
+  "homepage": "https://github.com/Proyol/lerna-design-system#readme",
+  "license": "ISC",
+  "main": "lib/design-tokens.js",
+  "module": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Proyol/lerna-design-system.git"
+  },
+  "scripts": {
+    "test": "echo Testando design tokens"
+  },
+  "bugs": {
+    "url": "https://github.com/Proyol/lerna-design-system/issues"
+  }
+}

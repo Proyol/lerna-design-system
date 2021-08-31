@@ -1,7 +1,8 @@
 import styled from 'styled-components';
+import { colors } from 'danielg.favero-design-tokens'
 
 export const Button = styled.button`
-    background-color: #00ff70;
+    background-color: ${colors.green};
     color: #000;
 
     border: none;

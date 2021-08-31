@@ -1,0 +1,1 @@
+declare module 'danielg.favero-design-tokens'

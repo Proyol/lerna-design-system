@@ -11,6 +11,7 @@
   "main": "lib/Button.js",
   "module": "src/Button.js",
   "dependencies": {
+    "danielg.favero-design-tokens": "^1.0.0",
     "react": "latest",
     "react-dom": "latest",
     "styled-components": "latest"
